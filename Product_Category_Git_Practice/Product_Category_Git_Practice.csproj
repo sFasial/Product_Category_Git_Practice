@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\DbModel\" />
+    <Folder Include="Models\ApplicationDatabaseContext\" />
+  </ItemGroup>
+
 </Project>
